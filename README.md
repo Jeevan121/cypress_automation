@@ -1,7 +1,7 @@
 # cypress_automation
 Demo for the cypress automation
 
-Please take the check out from the git url : https://github.com/Jeevan121/cypress_automation
+Please take the check out from the git url : https://github.com/Jeevan121/cypress_automation.git
 
 Please switch to the master branch : git chechout master
 
